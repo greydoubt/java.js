@@ -1,0 +1,17 @@
+	
+version	"1.0"
+name	"Java 1.0"
+ga	"1996-01-23"
+eol	"1996-05-07"
+latestversion	"1.0.2"
+status	"EOL"
+bytecode	"45.0"
+unicode	"1.1.5"
+documentation	
+vm	"https://<BASE_URI>/jdk/1.0/vmspec/VMSpecTOC.doc.html"
+lang	"https://<BASE_URI>/jdk/1.0/langspec/"
+api	"https://<BASE_URI>/jdk/1.0/api/"
+scm	[]
+features	[]
+apidiffversions	[]
+vendors	[]
