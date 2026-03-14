@@ -1,0 +1,23 @@
+Package java.util
+Classes
+
+    3.1 Class BitSet 
+    3.2 Class Date 
+    3.3 Class Dictionary 
+    3.4 Class Hashtable 
+    3.5 Class Observable 
+    3.6 Class Properties 
+    3.7 Class Random 
+    3.8 Class Stack 
+    3.9 Class StringTokenizer 
+    3.10 Class Vector 
+
+Interfaces
+
+    3.11 Interface Enumeration 
+    3.12 Interface Observer 
+
+Exceptions
+
+    3.13 Class EmptyStackException 
+    3.14 Class NoSuchElementException 
