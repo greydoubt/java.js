@@ -1,4 +1,4 @@
- Package java.lang
+Package java.lang
 Classes
 
     1.1 Class Boolean 
