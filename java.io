@@ -1,6 +1,5 @@
 Package java.lang
 Classes
-
     1.1 Class Boolean 
     1.2 Class Character 
     1.3 Class Class 
@@ -24,12 +23,10 @@ Classes
     1.21 Class Throwable 
 
 Interfaces
-
     1.22 Interface Cloneable 
     1.23 Interface Runnable 
 
 Exceptions
-
     1.24 Class ArithmeticException 
     1.25 Class &;ArrayIndexOutOfBoundsException 
     1.26 Class ArrayStoreException 
