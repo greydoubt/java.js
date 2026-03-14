@@ -11,21 +11,36 @@ Java Packages
 
 Java interfaces and classes are grouped into packages. The following lists the java packages, from which you can access interfaces and classes.
 
-java.lang
+java.lang: The Java Language Package 
+--------------------------------------
     Package that contains essential Java classes, including numerics, strings, objects, compiler, runtime, security, and threads. This is the only package that is automatically imported into every Java program. 
-java.io
+
+java.io: The Java I/O Package 
+--------------------------------------
     Package that provides classes to manage input and output streams to read data from and write data to files, strings, and other sources. 
-java.util
+
+java.util: Miscellaneous Java utilities and data structures 
+--------------------------------------
     Package that contains miscellaneous utility classes, including generic data structures, bit sets, time, date, string manipulation, random number generation, system properties, notification, and enumeration of data structures. 
-java.net
+
+java.net: The Java Networking Package 
+--------------------------------------
     Package that provides classes for network support, including URLs, TCP sockets, UDP sockets, IP addresses, and a binary-to-text converter. 
-java.awt
+
+java.awt: The Abstract Window Toolkit (AWT) Package 
+--------------------------------------
     Package that provides an integrated set of classes to manage user interface components such as windows, dialog boxes, buttons, checkboxes, lists, menus, scrollbars, and text fields. (AWT = Abstract Window Toolkit) 
-java.awt.image
+
+java.awt.image: The AWT Image Package 
+--------------------------------------
     Package that provides classes for managing image data, including color models, cropping, color filtering, setting pixel values, and grabbing snapshots. 
-java.awt.peer
+
+java.awt.peer: The AWT Peer Package 
+--------------------------------------
     Package that connects AWT components to their platform-specific implementations (such as Motif widgets or Microsoft Windows controls). 
-java.applet
+
+java.applet: The Java Applet Package 
+--------------------------------------
     Package that enables the creation of applets through the Applet class. It also provides several interfaces that connect an applet to its document and to resources for playing audio. 
 
 
