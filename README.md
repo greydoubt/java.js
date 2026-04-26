@@ -4,6 +4,24 @@
 jScript: EK-VCE 
 --------------------------------------
 
+ Since ECMA-262 Date objects convert to long long values representing the number of milliseconds since the Unix Epoch, the lastModified member could be a Date object [ECMA-262].
+
+
+Basic File Objects consist of the following components- 
+and because JavaScript is Fully Symmetrical with regard to Functional-Objective Parity-
+will always return a new File object F such that:
+```
+    F refers to the bytes byte sequence.
+
+    F.size is set to the number of total bytes in bytes.
+
+    F.name is set to n.
+
+    F.type is set to t.
+
+    F.lastModified is set to d.
+
+```
 
 
 
